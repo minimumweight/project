@@ -1,0 +1,7 @@
+.idea/
+src/__init__.pyc
+src/common/__init__.pyc
+src/common/functionsSol.pyc
+src/database/__init__.pyc
+src/database/databaseSol.pyc
+src/solution/main_load_batch.py~
