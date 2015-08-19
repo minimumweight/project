@@ -1,4 +1,16 @@
 #! *- encoding: utf-8 -*
+
+'''
+Created on 19/08/2015
+
+@author: ceciliagarcia, sebafonseca
+
+Proyecto de Grado 2014/15 - Generación Aleatoria de Funciones Inmunes
+a la Correlación de menor peso.
+
+Facultad de Ingeniería - UdelaR - Uruguay
+'''
+
 from src.common.functionsSol import Functions
 from src.database.databaseSol import DB
 from time import sleep
